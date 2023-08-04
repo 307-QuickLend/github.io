@@ -1,5 +1,4 @@
 {
-  "njcnsdckl": "www.quicklend.shop",
-  "vjnvkl": "www.baidu.com;www.doc.imhere.online",
+  "njcnsdckl": "www.quicklend.online;www.quicklend.live",
   "whlkanl": 9181269002184
 }
